@@ -65,7 +65,7 @@
           uiLastX_Normal="1353" uiLastY_Normal="90" uiopen_Normal="1">
     <PLUGIN name="SimpleEQ" format="AudioUnit" category="Effect" manufacturer="yourcompany"
             version="1.0.0" file="AudioUnit:Effects/aufx,Qgcx,Manu" uniqueId="7d736b75"
-            isInstrument="0" fileTime="0" infoUpdateTime="1985f4b88a0" numInputs="2"
+            isInstrument="0" fileTime="0" infoUpdateTime="19867ecb890" numInputs="2"
             numOutputs="2" isShell="0" hasARAExtension="0" uid="7d736b75"/>
     <STATE>261.hAGaoMGcv.y0AHv.DTfAGfPBJHwDTTAWsEla0YVXiQWcxUlbTQVXzEFWkwVYsUlaz0hag0VYWMWchQWdvU1U1Ulbyk1atQEc4AWYT4VXsUlDMEla08DDDA..............GPA7cmQOUbpUTDuDf7C....LK1hB.....PyVp4aO55BidUgZKB....PXOFQV.....X1Fki4O.B..Ru.CM.QTwDkLQ6vCQASUI4Fb0QWzNDgUOUGcvUGcRD0YigGD.HQX0YFdXUkazkFcrUFYHbAIoXiOFsDTUwYniVJppB6r59avFC.......DP..........XA...................vy</STATE>
     <LAYOUT>
@@ -82,10 +82,10 @@
           uiopen_IO="0">
     <PLUGIN name="AUAudioFilePlayer" format="AudioUnit" category="Generator"
             manufacturer="Apple" version="1.6.0" file="AudioUnit:Generators/augn,afpl,appl"
-            uniqueId="6163676e" isInstrument="0" fileTime="0" infoUpdateTime="1985f4b88a0"
+            uniqueId="6163676e" isInstrument="0" fileTime="0" infoUpdateTime="19867ecb890"
             numInputs="0" numOutputs="2" isShell="0" hasARAExtension="0"
             uid="6163676e"/>
-    <STATE>530.hAGaoMGcv.C1AHv.DTfAGfPBJr.Gc3wGgvUag4VclE1XzUmbkIGUjEFcg8EDarVPUAkbkMWYzAUYxMWZyQWYtQ2TzEFcksTY4c0b0IFc4AWYWYWYxMWZu4FUzkGbk8EDOXVZrUVKxUlYkIWYtMVYyQkag0VYRDFbvwFPgxvzM3vCPDQFXYTZrUlSg0VYWIUYmk1atMmWIM2TkwVYiQWYjYTZrU1WPPxKUMWYxM2KhIWYzQ2KD81ctw1agQ1buDTagoVNyHFbs4RXoYVnRP8DTTgEWfQFZ3kTkcVZu4FQuU1bL81avokTkcVZu4FQgQWXeAADIM2TkwVYiQWYjIUYmk1atokTkcVZu4lSg0VYH7DDvA...........XMHjD...............H....f...............fqA........3TPHMDB....A...............................................+++++C............nP.7++++eBZ4TY2AhTkcVZu4VBRDlYvwFD.HQX0claQCBDVYTZrUFHwfUUtQWZzwVYjA.B.jA.l.vJ.jD.QAPV.3E.vAPc.nG.6APe.PH.MBPk.PJ.KCPy.XM.kC.7ALP.NDvCAHX.CFfiA7X.TFfkArY.dFPo........BD..........h...................A3J</STATE>
+    <STATE>566.hAGaoMGcv.C1AHv.DTfAGfPBJr.Gc3wGgvUag4VclE1XzUmbkIGUjEFcg8EDarVPUAkbkMWYzAUYxMWZyQWYtQ2TzEFcksTY4c0b0IFc4AWYWYWYxMWZu4FUzkGbk8EDOXVZrUVKxUlYkIWYtMVYyQkag0VYRDFbvwFPgxvzM3vCPDQFXYTZrUlSg0VYWIUYmk1atMmWIM2TkwVYiQWYjYTZrU1WPfzKUMWYxM2KhIWYzQ2KRU1XuIGYo41Yy8xPnk1XqUlafzTXt8BPxUlYkIWYtMVYuLDZoM1Zk4FHMElafHUYlUlbk41Xk4xcgYWnRP8DTTgEWfQFZ3kTkcVZu4FQuU1bL81avokTkcVZu4FQgQWXeAADIM2TkwVYiQWYjIUYmk1atokTkcVZu4lSg0VYH7DDvA..........fNJNA..X...................XiaTP..........vXk8xPnk1XqUlakHCLMElaA....TlYkIG.....................................+++++C...........tRV.7++++eBZ4TY2AhTkcVZu4VBRDlYvwFD.HQX0claQCBDVYTZrUFHwfUUtQWZzwVYjA.B.jA.l.vJ.jD.QAPV.3E.vAPc.nG.6APe.PH.MBPk.PJ.uCP7.ne.ID.EAbR.xDvLAXZ.mFfrALa.3FftA7a.BGPx........BD..........h...................AHM</STATE>
     <LAYOUT>
       <INPUTS/>
       <OUTPUTS>
